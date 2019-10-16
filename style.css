@@ -1,0 +1,66 @@
+body, h1, p {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+body {
+  background-image: url(email-pattern.png);
+
+}
+
+img {
+    border-radius: 10px 50px;
+}
+
+header {
+    margin: 3%;
+    height: 35px;
+    border-bottom: solid #000000;
+}
+
+.contentResume {
+    text-align: right;
+}
+
+
+.Resume {
+    text-align: right;
+}
+
+.Block {
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.inside {
+    margin-top: 10px;
+    text-align: right;
+    padding: 25px;
+    margin-left: auto;
+  
+    background: #ffffffd0;
+
+}
+
+.avatar {
+    margin-left: 44%;
+    margin-top: 5vh;
+    height: 150px;
+    width: 150px;
+}
+
+.text {
+    text-align: left;
+}
+
+.footer {
+    border-top: solid;
+    margin: 3%;
+}
+
+table tr td {
+    padding: 1vmin 3vmin;
+}
+
